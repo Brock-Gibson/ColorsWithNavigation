@@ -1,2 +1,2 @@
-# Colors
-Solution to Colors Table View Challenge for INFOTC 4405
+# Colors With Navigation
+Solution to Colors With Navigation Challenge for INFOTC 4405
